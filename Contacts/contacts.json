@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "firstName": "oleg",
+    "lastName": "popov",
+    "phone": "78945645645"
+  },
+  {
+    "id": "2",
+    "firstName": "ivan",
+    "lastName": "ivanov",
+    "phone": "78945612345"
+  },
+  {
+    "id": "3",
+    "firstName": "olya",
+    "lastName": "smirnova",
+    "phone": "78797654321"
+  },
+  {
+    "id": "4",
+    "firstName": "khvk",
+    "lastName": "kjk",
+    "phone": "56"
+  }
+]
